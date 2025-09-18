@@ -60,3 +60,9 @@ Linux                    33 hrs 43 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
  Last Updated on 18/09/2025 12:21:21 UTC
 <!--END_SECTION:waka-->
+
+---
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!-- vim: spelllang=en
