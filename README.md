@@ -7,15 +7,15 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 50.6 kB Used in GitHub's Storage 
  > 
-> 🏆 503 Contributions in the Year 2025
+> 🏆 502 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 32 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 29 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -76,5 +76,5 @@ Dockerfile               1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/rulshrm/rulshrm/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2025 08:20:35 UTC
+ Last Updated on 18/09/2025 08:26:22 UTC
 <!--END_SECTION:waka-->
