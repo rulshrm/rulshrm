@@ -1,11 +1,11 @@
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=rulshrm&layout=compact&theme=codeSTACKr" /></p> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C049%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C049%20hrs%2015%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 50.8 kB Used in GitHub's Storage 
+> 📦 50.9 kB Used in GitHub's Storage 
  > 
 > 🏆 509 Contributions in the Year 2025
  > 
@@ -58,7 +58,7 @@ Linux                    32 hrs 20 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 26/09/2025 22:22:18 UTC
+ Last Updated on 27/09/2025 01:44:29 UTC
 <!--END_SECTION:waka-->
 
 ---
