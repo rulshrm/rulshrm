@@ -25,3 +25,4 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LANGUAGE: "True"
+          SECTION_NAME: anmol
