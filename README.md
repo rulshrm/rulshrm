@@ -1,19 +1,19 @@
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=rulshrm&layout=compact&theme=codeSTACKr" /></p> -->
 
 <!--START_SECTION:anmol-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C247%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C248%20hrs%2017%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 52.8 kB Used in GitHub's Storage 
+> 📦 49.9 kB Used in GitHub's Storage 
  > 
 > 🏆 647 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 20 Public Repositories 
  > 
-> 🔑 43 Private Repositories 
+> 🔑 44 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -60,7 +60,7 @@ Windows                  36 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 05/11/2025 22:25:02 UTC
+ Last Updated on 06/11/2025 01:58:13 UTC
 <!--END_SECTION:anmol-->
 
 <details>
