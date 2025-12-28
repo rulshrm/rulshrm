@@ -1,7 +1,7 @@
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=rulshrm&layout=compact&theme=codeSTACKr" /></p> -->
 
 <!--START_SECTION:anmol-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C318%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C319%20hrs%2013%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -56,7 +56,7 @@ Windows                  3 hrs 36 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 28/12/2025 02:23:16 UTC
+ Last Updated on 28/12/2025 04:51:49 UTC
 <!--END_SECTION:anmol-->
 
 <details>
