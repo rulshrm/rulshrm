@@ -1,7 +1,7 @@
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=rulshrm&layout=compact&theme=codeSTACKr" /></p> -->
 
 <!--START_SECTION:anmol-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C350%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C345%20hrs%201%20min-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -60,7 +60,7 @@ Linux                    10 hrs 21 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 05/01/2026 16:37:05 UTC
+ Last Updated on 05/01/2026 18:43:01 UTC
 <!--END_SECTION:anmol-->
 
 <details>
