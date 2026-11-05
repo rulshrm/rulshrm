@@ -59,29 +59,6 @@ VS Code                  44 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 Linux                    10 hrs 34 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 hrs 30 mins (23.68%)
-
-✍️ 157 lines written by AI, 19 lines written by hand (89.2% AI-written)
-
-🔤 479,719 Input Tokens, 6,209 Output Tokens
-
-💵 $1.53 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 185 AI Prompts
-
-Hermes-Agent             157 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
-Vscode                   0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 89.2% of written lines came from AI
-📄 Detailed Prompter — average 908 characters per prompt
-🔁 Iterative Prompter — average 92 prompts per session
-🚀 High AI Trust — 10.8% of changed lines were hand-edited
-```
-
 
  Last Updated on 01/11/2026 16:43:35 UTC
 <!--END_SECTION:anmol-->
